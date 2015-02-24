@@ -1,0 +1,28 @@
+{
+  "name": "yttopod",
+  "version": "1.0.0",
+  "description": "Download YouTube uploads, filter them and assemble a podcast feed from them",
+  "main": "lib/yttopod.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariehane/yttopod.git"
+  },
+  "keywords": [
+    "podcast",
+    "youtube",
+    "rss",
+    "download"
+  ],
+  "author": "Mariehane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariehane/yttopod/issues"
+  },
+  "homepage": "https://github.com/mariehane/yttopod"
+}
