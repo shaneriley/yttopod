@@ -1,6 +1,6 @@
 {
   "name": "yttopod",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Download YouTube uploads, filter them and assemble a podcast feed from them",
   "main": "lib/yttopod.js",
   "directories": {
