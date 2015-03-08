@@ -1,6 +1,6 @@
 {
   "name": "yttopod",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Download YouTube uploads, filter them and assemble a podcast feed from them",
   "main": "lib/yttopod.js",
   "directories": {
@@ -24,14 +24,13 @@
   "bugs": {
     "url": "https://github.com/mariehane/yttopod/issues"
   },
-  "dependencies": 
-  {
+  "dependencies": {
     "concat-stream": "~1.4.7",
     "podcast": "~0.1.2",
-    "ytdl-core": "~0.5.0"
+    "ytdl-core": "~0.5.0",
+    "url-join": "~0.0.1"
   },
-  "devDependencies": 
-  {
+  "devDependencies": {
     "chai": "~2.1.0",
     "mocha": "~2.1.0"
   },
