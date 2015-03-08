@@ -1,6 +1,6 @@
 {
   "name": "yttopod",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Download YouTube uploads, filter them and assemble a podcast feed from them",
   "main": "lib/yttopod.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "concat-stream": "~1.4.7",
-    "podcast": "~0.1.2",
+    "rss": "~1.1.1",
     "ytdl-core": "~0.5.0",
     "url-join": "~0.0.1"
   },
